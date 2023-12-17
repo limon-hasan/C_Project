@@ -33,5 +33,3 @@ This code appears to be written in C and implements a school management system. 
 * The program uses various formatting techniques to improve user experience.
 
 **Overall, this code demonstrates a well-structured school management system with basic functionalities. However, it is important to address the security concerns regarding password storage before deploying it in a real-world environment.**
-
-I hope this breakdown helps! Let me know if you have any other questions about the code or its functionality.
