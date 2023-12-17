@@ -4,7 +4,7 @@ This code appears to be written in C and implements a school management system. 
 
 **1. Program Structure:**
 * The program starts by defining structures for `student` and `teacher` which hold information about each individual.
-* It then defines several functions:
+* `It then defines several functions: `
     * `add_student_record`: Allows adding a new student record to a file.
     * `add_teacher_record`: Allows adding a new teacher record to a file.
     * `viewAllTeacherRecord`: Prints all teacher records stored in a file.
